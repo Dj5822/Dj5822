@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Dj5822
-- 👀 I’m interested in gaming and web3 development.
-- 🌱 I’m currently learning how build dapps.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: Dj5822@gmail.com
+Hi, I'm Dylan. I'm interested in web development and game development.
