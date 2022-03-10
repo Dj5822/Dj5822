@@ -1,1 +1,2 @@
-Hi, I'm Dylan. I'm interested in web development and game development.
+Coding is fun, but remember to get enough sleep everyone!
+Stay healthy, and stay cool.
